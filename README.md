@@ -6,8 +6,10 @@ This repository contains the code and resources for the "Natural Language Proces
 
 
 # Contents
-datasets/: This directory contains the dataset for the competition.
-sources/: This directory contains Jupyter notebooks with exploratory data analysis, feature engineering, and model development.
+- datasets/: This directory contains the dataset for the competition.
+- sources/: This directory contains Jupyter notebooks with exploratory data analysis, feature engineering, and model development.
+- Report_Final.pdf: Report of project.
+- linkyoutube.txt: The presentation of my team.
 
 # Getting Started
 To get started with this project, follow these steps:
